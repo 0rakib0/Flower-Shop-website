@@ -219,9 +219,11 @@ img{
 
 
 .contact-section{
-    background-image: url("img.jpg");
-    width: 1140px;
-    height: 250px;
+    background-image: url("/Flower Asset/img.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 900px;
+    height: 300px;
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -276,6 +278,7 @@ img{
     text-align: center;
     margin-top: 20px;
 }
+
 
 .footer-section .foter-text small{
     text-align: center;
