@@ -229,6 +229,8 @@ img{
     justify-content: center;
     align-items: center;
     font-family: 'Lato', sans-serif;
+    margin-bottom: 30px;
+    border-radius: 8px;
 }
 
 .contact-text .title{
